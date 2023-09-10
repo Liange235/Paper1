@@ -16,6 +16,7 @@ We have also [released a dataset] in the folder Data for researchers to study th
 
 **Requirements**:
 - Matlab >= 2015
+- Som package
 
 ### Work with us
 
