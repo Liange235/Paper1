@@ -2,7 +2,7 @@
 
 # FDA-t-SNE
 
-![图片描述](https://liange235.github.io/Intermediate-results/graphical abstract.png)
+![图片描述](https://liange235.github.io/Intermediate-results/graphical_abstract_paper1.png)
 
 Code, models and data for the paper ["Neural network modeling relationship between inputs and state mapping plane obtained by FDA–t-SNE for visual industrial process monitoring"](https://www.sciencedirect.com/science/article/abs/pii/S1568494617304337).
 
@@ -28,15 +28,19 @@ Please [let us know a1714170867@163.com] if you’re doing interesting research 
 
 Please use the following bibtex entry:
 ```
-@ARTICLE{10093135,
-  author={Tang, Jiawei and Lin, Xiaowen and Zhao, Fei and Chen, Xi},
-  journal={IEEE Transactions on Industrial Informatics}, 
-  title={Industrial Data Modeling with Low-Dimensional Inputs and High-Dimensional Outputs}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-9},
-  doi={10.1109/TII.2023.3264631}}
+@article{TANG2017577,
+title = {Neural network modeling relationship between inputs and state mapping plane obtained by FDA–t-SNE for visual industrial process monitoring},
+journal = {Applied Soft Computing},
+volume = {60},
+pages = {577-590},
+year = {2017},
+issn = {1568-4946},
+doi = {https://doi.org/10.1016/j.asoc.2017.07.022},
+url = {https://www.sciencedirect.com/science/article/pii/S1568494617304337},
+author = {Jiawei Tang and Xuefeng Yan},
+keywords = {Fisher discriminant analysis, T-distributed stochastic neighbor embedding, BP artificial neural network, Fault diagnosis, Fault monitoring},
+abstract = {...}
+}
 ```
 
 ## Future work
