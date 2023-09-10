@@ -7,7 +7,8 @@
 Code, models and data for the paper ["Neural network modeling relationship between inputs and state mapping plane obtained by FDA–t-SNE for visual industrial process monitoring"](https://www.sciencedirect.com/science/article/abs/pii/S1568494617304337).
 
 # Supporting information
-The original plot results are upload as the zip file to the Google Drive(https://drive.google.com/file/d/12T6anK7n5QOeA0FAnMvlEHUR9fKrLc21/view?usp=drive_link)
+The original plot results are upload as the zip file to the Google Drive
+(https://drive.google.com/file/d/12T6anK7n5QOeA0FAnMvlEHUR9fKrLc21/view?usp=drive_link)
 
 We have also [released a dataset] in the folder Data for researchers to study their behaviors.
 
