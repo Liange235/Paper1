@@ -7,22 +7,20 @@
 Code, models and data for the paper ["Neural network modeling relationship between inputs and state mapping plane obtained by FDA–t-SNE for visual industrial process monitoring"](https://www.sciencedirect.com/science/article/abs/pii/S1568494617304337).
 
 # Supporting information
-The animated plotted results are too large to append here. So we upload the zip file to the Google Drive(https://drive.google.com/file/d/12Q0XIJyz3zHpquO3cS-OUt3deAYGALJk/view?usp=sharing)
+The original plot results are upload as the zip file to the Google Drive(https://drive.google.com/file/d/12T6anK7n5QOeA0FAnMvlEHUR9fKrLc21/view?usp=drive_link)
 
 We have also [released a dataset] in the folder Data for researchers to study their behaviors.
 
 ## Installation
 
 **Requirements**:
-- Python >= 3.8
-- PyTorch >= 1.12
+- Matlab >= 2015
 
 ### Work with us
 
-Please [let us know a1714170867@163.com] if you’re doing interesting research with or working on applications of Gaussian Process!  We’re especially interested in hearing from and potentially working with those who are studying
+Please [let us know a1714170867@163.com] if you’re doing interesting research with or working on fault monitoring and diagnosis!  We’re especially interested in hearing from and potentially working with those who are studying
 - Statistical analysis
-- The extent of extrapolation performance in GP
-- Some other applications in numerical analysis using GP
+- Data analysis & visualization
 
 ## Citation
 
@@ -43,6 +41,3 @@ abstract = {...}
 }
 ```
 
-## Future work
-
-We are still considering the integration with GP and other traditional numerical methods.
